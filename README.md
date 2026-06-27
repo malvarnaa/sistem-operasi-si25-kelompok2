@@ -46,7 +46,9 @@ Program Studi: Sistem Informasi, Universitas Galuh
   reboot
   ```
 * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
-  ![Konfigurasi Sudo](Images/02-sudo-config.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
+  ![Konfigurasi Sudo](Images/07-apt-update.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
+  ![Konfigurasi Sudo](Images/08-install-sudo.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
+  ![Konfigurasi Sudo](Images/09-usermod.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
 
 ### 3. Instalasi Web Server Nginx & Tools Dasar
 * Menginstal `net-tools`, `curl`, `git`, dan `nginx` menggunakan command line.
@@ -57,7 +59,7 @@ Program Studi: Sistem Informasi, Universitas Galuh
   sudo systemctl enable nginx
   ```
 * *[Tambahkan screenshot status active running dari Nginx]*
-  ![Nginx Service Status](images/03-nginx-status.png)
+  ![Nginx Service Status](Images/03-nginx-status.png)
 
 ### 4. Pembuatan Halaman Web Profil Kelompok
 * Mengubah dokumen default Nginx pada `/var/www/html/index.html` dengan HTML profil anggota kelompok Anda.
