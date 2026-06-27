@@ -92,5 +92,6 @@ Poin-poin Penting yang didapatkan
 - Mengetahui pentingnya melakukan update sistem setelah instalasi menggunakan "apt update" dan "apt upgrade"
 - Memahami penggunaan perintah dasar Linux melalui terminal, seperti mengelola file, folder, dan pengguna
 - Mengetahui bahwa server tanpa GUI lebih ringan, lebih cepat, dan lebih cocok digunakan sebagai server karena tidak banyak menghabiskan resource
-- Melatih kemampuan troubleshooting ketika terjadi kesahalan saat proses instalasi atau konfigurasi server
+- Melatih kemampuan troubleshooting ketika terjadi kesahalan saat proses instalasi atau konfigurasi server.
+
 Secara keseluruhan, praktikum ini membantu memahami dasar-dasar administrasi server Linux dan memberikan pengalaman langsung dalam melakukan instalasi serta konfigurasi server berbasis Debian secara headless
