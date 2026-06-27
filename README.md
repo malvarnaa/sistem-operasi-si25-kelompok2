@@ -46,9 +46,9 @@ Program Studi: Sistem Informasi, Universitas Galuh
   reboot
   ```
 * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
-  ![Konfigurasi Sudo](Images/07-apt-update.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
-  ![Konfigurasi Sudo](Images/08-install-sudo.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
-  ![Konfigurasi Sudo](Images/09-usermod.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
+  ![Konfigurasi Sudo](Images/07-apt-update.png) *(Catatan: Hasil screenshoot "apt update && apt upgrade -y")*
+  ![Konfigurasi Sudo](Images/08-install-sudo.png) *(Catatan: Hasil screenshoot "install sudo...")*
+  ![Konfigurasi Sudo](Images/09-usermod.png) *(Catatan: Hasil screenshoot "usermood...)*
 
 ### 3. Instalasi Web Server Nginx & Tools Dasar
 * Menginstal `net-tools`, `curl`, `git`, dan `nginx` menggunakan command line.
@@ -68,16 +68,16 @@ Program Studi: Sistem Informasi, Universitas Galuh
   sudo systemctl restart nginx
   ```
 * *[Tambahkan screenshot pengeditan index.html menggunakan nano editor]*
-  ![Edit index.html](images/04-edit-html.png)
+  ![Edit index.html](Images/04-Edit-HTML.png)
 
 ### 5. Konfigurasi Port Forwarding VMware & Pengujian Host
 * Melakukan pemetaan port 8080 pada Windows Host ke port 80 Debian Guest VM lewat menu Virtual Network Editor.
 * Menguji akses web server Debian melalui browser di sistem operasi host.
 * *[Tambahkan screenshot pengaturan NAT Settings VMware]*
-  ![NAT Settings VMware](images/05-nat-settings.png)
+  ![NAT Settings VMware](Images/05-nat-settings.png)
   
 * *[Tambahkan screenshot halaman profil kelompok yang berhasil diakses dari browser host di http://localhost:8080]*
-  ![Akses Browser Host](images/06-browser-host.png)
+  ![Akses Browser Host](Images/06-browser-host.png)
 
 ## 🎥 Link Video Demo
 [Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive](https://youtube.com/...)
