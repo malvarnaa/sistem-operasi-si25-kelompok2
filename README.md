@@ -83,4 +83,14 @@ Program Studi: Sistem Informasi, Universitas Galuh
 [Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive](https://youtube.com/...)
 
 ## 📝 Kesimpulan
-Tuliskan simpulan dari praktikum yang telah dilakukan serta poin-poin penting yang didapatkan selama melakukan setup server Linux headless.
+Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa proses setup server Linux headless menggunakan Debian memberikan pemahaman tentang cara menginstal dan mengelola server tanpa menggunakan tampilan grafis (GUI). Seluruh proses dilakukan melalui terminal, mulai dari instalasi sistem operasi, konfigurasi jaringan, hingga pengaturan akses menggunakan SSH. Dengan metode ini, server menjadi lebih ringan, lebih efisien dalam penggunaan sumber daya, dan lebih mudah dikelola dari komputer lain melalui jaringan. Praktikum ini juga memberikan gambaran bagaimana proses dasar administrasi server Linux yang sering digunakan di dunia kerja.
+Poin-poin Penting yang didapatkan
+- Memahami cara instalasi Debian dalam mode headless tanpa desktop environment.
+- Mengetahui langkah langkah konfigurasi dasar seperti pengaturan hostname, user, password, dan partisi disk
+- Memahami cara menghubungkan server ke jaringan agar dapat diakses dari perangkat lain
+- Belajar menggunakan SSH sebagai media untuk mengakses server dari jarak jauh
+- Mengetahui pentingnya melakukan update sistem setelah instalasi menggunakan "apt update" dan "apt upgrade"
+- Memahami penggunaan perintah dasar Linux melalui terminal, seperti mengelola file, folder, dan pengguna
+- Mengetahui bahwa server tanpa GUI lebih ringan, lebih cepat, dan lebih cocok digunakan sebagai server karena tidak banyak menghabiskan resource
+- Melatih kemampuan troubleshooting ketika terjadi kesahalan saat proses instalasi atau konfigurasi server
+Secara keseluruhan, praktikum ini membantu memahami dasar-dasar administrasi server Linux dan memberikan pengalaman langsung dalam melakukan instalasi serta konfigurasi server berbasis Debian secara headless
